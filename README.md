@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Kamran-Ahmad-ops
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+*About Me*
+Highly motivated and detail-oriented web developer with a passion for crafting exceptional digital experiences. Proficient in a range of programming languages, including JavaScript, HTML/CSS.
 <!---
 Kamran-Ahmad-ops/Kamran-Ahmad-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
