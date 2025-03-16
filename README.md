@@ -4,7 +4,13 @@
 
 🤝 If you're passionate about web development and want to make a meaningful contribution, let's collaborate.<br>
 
-🤖 "Let's merge our skills and create something incredible!"....
+🤖 "Let's merge our skills and create something incredible!"....<br>
+
+
+
+       <h1>✨"Misc vibes"✨</h1>
+🏏 "Cricket's my go-to sport!."
+❤️ "Virat Kohli's my cricket GOAT!."
 
 <!---
 Kamran-Ahmad-ops/Kamran-Ahmad-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
