@@ -8,7 +8,8 @@
 
 
 
-       <h1>✨"Misc vibes"✨</h1>
+         ✨"Misc vibes"✨
+
 🏏 "Cricket's my go-to sport!."
 ❤️ "Virat Kohli's my cricket GOAT!."
 
