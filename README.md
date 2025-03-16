@@ -8,7 +8,7 @@
 
 
 
-               ✨"Misc vibes"✨
+              ✨"Misc vibes"✨
 
 🏏 "Cricket's my go-to sport!."<br>
 ❤️ "Virat Kohli's my cricket GOAT!."
