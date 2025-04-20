@@ -1,3 +1,5 @@
+#                         Hi There !
+
 🔥 Highly motivated and detail-oriented web developer with a passion for crafting exceptional digital experiences. Proficient in a range of programming languages, including JavaScript, HTML/CSS.<br>
 
 🚀 Building personal projects to reinforce skills and gain hands-on experience.<br>
